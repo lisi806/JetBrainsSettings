@@ -1,0 +1,8 @@
+<templateSet group="MyGroup">
+  <template name="cmt" value="/**&#10; * @author muzhi&#10; * @date $date$&#10; */" description="add comment" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

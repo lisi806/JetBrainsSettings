@@ -1,0 +1,28 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="181.5281.24" />
+      <item value="181.5087.20" />
+      <item value="182.4323.46" />
+      <item value="191.7141.44" />
+      <item value="191.6707.61" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="IU-183.6156.11" />
+    <option name="LAST_TIME_CHECKED" value="1558430845614" />
+    <pluginHosts>
+      <item value="https://ide.alibaba-inc.com/idea/plugins/list" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
