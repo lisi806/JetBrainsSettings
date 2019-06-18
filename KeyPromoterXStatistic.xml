@@ -145,6 +145,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Octopus">
+        <Item>
+          <IdeaActionID>Octopus</IdeaActionID>
+          <ShortCut>'⇧⌘\'</ShortCut>
+          <Description>Octopus</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Preferences...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
