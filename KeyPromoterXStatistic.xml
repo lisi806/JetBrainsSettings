@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -166,7 +166,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>416</Count>
+          <Count>420</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -287,6 +287,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'OTPTest.main()'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'PickupExtendParamTest.test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R' or '⌘F11'</ShortCut>
+          <Description>Run 'PickupExtendParamTest.test'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'SpringTest'">
