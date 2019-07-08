@@ -273,6 +273,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'CabinetServiceImplTest.openGrid'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R' or '⌘F11'</ShortCut>
+          <Description>Run 'CabinetServiceImplTest.openGrid'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MainTest'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -398,6 +406,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'getQRCode()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'openGrid()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'openGrid()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
