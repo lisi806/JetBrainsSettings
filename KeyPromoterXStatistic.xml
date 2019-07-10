@@ -190,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>474</Count>
+          <Count>475</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -430,6 +430,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'openGrid()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'setStationNotifyCo...()'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'setStationNotifyCo...()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
