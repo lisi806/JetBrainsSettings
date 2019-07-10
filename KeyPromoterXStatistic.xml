@@ -166,7 +166,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>35</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -190,7 +190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>472</Count>
+          <Count>474</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Octopus">
@@ -566,7 +566,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
