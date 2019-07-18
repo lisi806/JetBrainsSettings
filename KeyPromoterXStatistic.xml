@@ -198,7 +198,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>495</Count>
+          <Count>499</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -614,7 +614,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
