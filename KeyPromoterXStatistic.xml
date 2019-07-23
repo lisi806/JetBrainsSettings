@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>558</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -671,6 +671,14 @@
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Test">
+        <Item>
+          <IdeaActionID>GotoTest</IdeaActionID>
+          <ShortCut>'⌃⌘T'</ShortCut>
+          <Description>Test</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
