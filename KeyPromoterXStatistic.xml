@@ -105,6 +105,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'DeliveryManTransDetailMapperTest.insert'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DeliveryManTransDetailMapperTest.insert'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'DeliveryManTransDetailMapperTest.insertOrUpdate'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'DeliveryManTransDetailMapperTest.insertOrUpdate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Pre-199'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -166,6 +182,14 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'insert()'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'insertOrUpdate()'">
+        <Item>
+          <IdeaActionID>DebugClass</IdeaActionID>
+          <ShortCut>'⌃⇧D'</ShortCut>
+          <Description>Debug 'insertOrUpdate()'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -294,7 +318,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>74</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Application'">
@@ -510,7 +534,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -551,6 +575,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'CabinetServiceImplTest.openGrid'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'DeliveryManTransDetailMapperTest.insert'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'DeliveryManTransDetailMapperTest.insert'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'EventComposition'">
@@ -638,7 +670,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>70</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo">
