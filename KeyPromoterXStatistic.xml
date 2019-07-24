@@ -129,6 +129,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'PickupOrderDetailMapperTest.insert'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'PickupOrderDetailMapperTest.insert'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Pre-199'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -190,7 +198,7 @@
           <IdeaActionID>DebugClass</IdeaActionID>
           <ShortCut>'⌃⇧D'</ShortCut>
           <Description>Debug 'insert()'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'insertOrUpdate()'">
@@ -246,7 +254,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>578</Count>
+          <Count>579</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
