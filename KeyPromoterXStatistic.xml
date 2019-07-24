@@ -6,7 +6,7 @@
           <IdeaActionID>Aligenerator</IdeaActionID>
           <ShortCut>'⌥⌘G'</ShortCut>
           <Description>Aligenerator</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Back">
@@ -238,7 +238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>559</Count>
+          <Count>562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
