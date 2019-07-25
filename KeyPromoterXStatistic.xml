@@ -254,7 +254,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>585</Count>
+          <Count>588</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -374,7 +374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⌘F11'</ShortCut>
           <Description>Run 'MainTest'</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MainTest.main()'">
