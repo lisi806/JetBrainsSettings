@@ -98,6 +98,10 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:cnmd-ec/cntec-retail-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:pae/lpc.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
