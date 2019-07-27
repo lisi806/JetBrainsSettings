@@ -278,7 +278,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>635</Count>
+          <Count>636</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
