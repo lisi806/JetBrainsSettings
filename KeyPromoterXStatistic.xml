@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateFindToolWindow</IdeaActionID>
           <ShortCut>'⌘3'</ShortCut>
           <Description>Find</Description>
-          <Count>51</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Action...">
@@ -286,7 +286,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>668</Count>
+          <Count>670</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -614,7 +614,7 @@
           <IdeaActionID>Vcs.Log.ShowAllAffected</IdeaActionID>
           <ShortCut>'⌃⌘A'</ShortCut>
           <Description>Show All Affected Files</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -814,7 +814,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
