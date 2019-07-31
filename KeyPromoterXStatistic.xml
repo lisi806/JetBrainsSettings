@@ -286,7 +286,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>695</Count>
+          <Count>696</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -686,7 +686,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>56</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'BizSequenceTest'">
