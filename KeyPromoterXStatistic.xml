@@ -294,7 +294,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>729</Count>
+          <Count>732</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -446,7 +446,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'MainTest.main()'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MtopDeliveryManRedPacketServiceImplTest.showReward'">
