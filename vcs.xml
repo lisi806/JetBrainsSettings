@@ -214,6 +214,10 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:cnt-finance/cnt-finance-billing.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:nb-benefit/nb-benefit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
