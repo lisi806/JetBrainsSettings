@@ -32,6 +32,7 @@
     <option name="DIFF_DEFAULT" value="true" />
     <option name="DIFF_EXE_PATH" value="/usr/local/bin/bcomp" />
     <option name="MERGE_EXE_PATH" value="/usr/local/bin/bcomp" />
+    <option name="MERGE_PARAMETERS" value="%1 %2 %3" />
   </component>
   <component name="TextDiffSettings">
     <option name="PLACES_MAP">
