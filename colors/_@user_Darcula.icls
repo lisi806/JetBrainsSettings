@@ -4,7 +4,7 @@
     <property name="created">2017-05-22T08:55:45</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.1.3.0.0</property>
-    <property name="modified">2020-05-28T20:22:15</property>
+    <property name="modified">2020-08-08T11:09:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -35,6 +35,13 @@
       <value>
         <option name="BACKGROUND" value="c7113" />
         <option name="ERROR_STRIPE_COLOR" value="43698d" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="adae59" />
+        <option name="ERROR_STRIPE_COLOR" value="756d56" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
   </attributes>
