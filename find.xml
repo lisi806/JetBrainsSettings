@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../payment-service/src/main/java/com/cainiao/cst/payment/domain/paymentplan/manager/impl/PayManagerImpl.java [payment-service]'" />
-    <option name="defaultScopeName" value="File '.../payment-service/src/main/java/com/cainiao/cst/payment/domain/paymentplan/manager/impl/PayManagerImpl.java [payment-service]'" />
-    <option name="SEARCH_SCOPE" value="File '.../payment-service/src/main/java/com/cainiao/cst/payment/domain/paymentplan/manager/impl/PayManagerImpl.java [payment-service]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
