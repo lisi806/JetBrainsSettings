@@ -246,6 +246,10 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:cf-fund/cf-rt-gateway.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:cnmd-settle-base/cnmd-settle-base.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
