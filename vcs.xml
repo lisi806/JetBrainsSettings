@@ -254,6 +254,10 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:cn-terminal-transport/tdweberworkbench.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:payment-platform/tdtradefee.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
