@@ -270,6 +270,10 @@
           <option name="url" value="git@gitlab.alibaba-inc.com:cainiao-finance/cf-payment.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.alibaba-inc.com:nb-ump/nb-ump.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/workspace" />
