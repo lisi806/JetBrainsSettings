@@ -70,7 +70,6 @@
     <option name="ARRAY_INITIALIZER_WRAP" value="1" />
     <option name="ASSIGNMENT_WRAP" value="1" />
     <option name="PLACE_ASSIGNMENT_SIGN_ON_NEXT_LINE" value="true" />
-    <option name="LABELED_STATEMENT_WRAP" value="1" />
     <option name="WRAP_COMMENTS" value="true" />
     <option name="ASSERT_STATEMENT_WRAP" value="1" />
     <option name="ASSERT_STATEMENT_COLON_ON_NEXT_LINE" value="true" />
