@@ -13,5 +13,6 @@
     <mask>*.java</mask>
     <mask>*test.java</mask>
     <mask>*.xml</mask>
+    <mask>*.x</mask>
   </component>
 </application>
